@@ -1,4 +1,4 @@
-package com.rakamin.todolist
+package com.example.todolist
 
 import org.junit.Test
 
