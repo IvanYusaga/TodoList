@@ -1,0 +1,2 @@
+C:\Users\ASUS\AndroidStudioProjects\ToDoList\app\src\androidTest\java\com\example\todolist\ExampleInstrumentedTest.kt
+C:\Users\ASUS\AndroidStudioProjects\ToDoList\app\src\androidTest\java\com\rakamin\todolist\ExampleInstrumentedTest.kt

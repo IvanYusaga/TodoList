@@ -1,0 +1,5 @@
+com.example.todolist.test.app-core-1.6.1-0 C:\Users\ASUS\.gradle\caches\8.10.2\transforms\049cfccd2c6742a010873c9d5d58d63f\transformed\core-1.6.1\res
+com.example.todolist.test.app-androidTest-1 C:\Users\ASUS\AndroidStudioProjects\ToDoList\app\build\generated\res\resValues\androidTest\debug
+com.example.todolist.test.app-mergeDebugAndroidTestResources-2 C:\Users\ASUS\AndroidStudioProjects\ToDoList\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.todolist.test.app-mergeDebugAndroidTestResources-3 C:\Users\ASUS\AndroidStudioProjects\ToDoList\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.todolist.test.app-debugAndroidTest-4 C:\Users\ASUS\AndroidStudioProjects\ToDoList\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
